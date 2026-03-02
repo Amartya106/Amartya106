@@ -1,6 +1,6 @@
 # Hey, I'm Amartya 👋
 
-EE Undergrad @ IIT BHU passionate about **ML, Computer Vision, and Robotics**.
+EE Undergrad @ IIT BHU passionate about **ML, Computer Vision, Control and Robotics**.
 
 Currently learning:
 - 🤖 ROS 2 & Robot Simulation
