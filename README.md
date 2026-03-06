@@ -27,16 +27,16 @@ My current focus is on the intersection of **perception, control, and learning**
 ## Tech Stack
 
 Languages  
-Python
+- Python
 
 Robotics (learning)
-ROS2, MuJoCo, Gymnasium
+- ROS2, MuJoCo, Gymnasium
 
 Machine Learning  
-PyTorch (learning), NumPy
+- PyTorch (learning), NumPy
 
 Tools  
-Linux, Git (learning)
+- Linux, Git (learning)
 
 ---
 
