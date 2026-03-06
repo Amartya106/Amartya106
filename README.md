@@ -1,22 +1,58 @@
-# Hey, I'm Amartya 👋
+# Hi, I'm Amartya 👋
 
-EE Undergrad @ IIT BHU passionate about **ML, Computer Vision, Control and Robotics**.
+Electrical Engineering undergraduate at IIT (BHU), Varanasi interested in **robotics, robot learning, and reinforcement learning**.
 
-Currently learning:
-- 🤖 ROS 2 & Robot Simulation
-- 👁️ Computer Vision (OpenCV, PyTorch)
-- 🔧 Hardware + AI (Arduino UNO Q)
-  
+My current focus is on the intersection of **perception, control, and learning** in robotic systems. I am building a strong foundation in **reinforcement learning, robot simulation, and control theory** with the goal of developing intelligent robotic systems that can learn from interaction.
+
 ---
 
-## 🚀 Projects
+## Current Focus
 
-- **UNO Q Vision Servo** – Edge ML model detecting person vs non-person and controlling a servo via Arduino.
-  
+- Reinforcement Learning
+- Robot Learning
+- Robot Manipulation
+- Robot Simulation (MuJoCo / Gymnasium)
+- ROS2
+- Computer Vision for Robotics
+
 ---
-  
-## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,opencv,ros,arduino,pytorch)](https://skillicons.dev)
+## Projects
 
-📍 Varanasi, India · 📬 amartya.mishra.eee25@itbhu.ac.in
+### Arduino UNO Q based vision controlled Servo
+
+
+---
+
+## Tech Stack
+
+Languages  
+Python
+
+Robotics (learning)
+ROS2, MuJoCo, Gymnasium
+
+Machine Learning  
+PyTorch (learning), NumPy
+
+Tools  
+Linux, Git (learning)
+
+---
+
+## Learning Roadmap
+
+Currently studying:
+
+- Reinforcement Learning
+- Computer Vision for Robotics
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/amartya-mishra-397b8b230/
+
+Email: amartya.mishra.eee25@itbhu.ac.in
+
+Website: (coming soon)
