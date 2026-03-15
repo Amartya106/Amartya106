@@ -9,8 +9,7 @@ My current focus is on the intersection of **perception, control, and learning**
 ## Current Focus
 
 - Reinforcement Learning
-- Robot Learning
-- Robot Manipulation
+- Linear Algebra
 - Robot Simulation (MuJoCo / Gymnasium)
 - ROS2
 - Computer Vision for Robotics
@@ -45,7 +44,8 @@ Tools
 Currently studying:
 
 - Reinforcement Learning
-- Computer Vision for Robotics
+- ROS2
+- Linear Algebra and Learning from Data -Gilbert Strang
 
 ---
 
