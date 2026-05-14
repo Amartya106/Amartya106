@@ -25,17 +25,15 @@ My current focus is on the intersection of **perception, control, and learning**
 
 ## Tech Stack
 
-Languages  
-- Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git" />
+</p>
 
-Robotics (learning)
-- ROS2, MuJoCo, Gymnasium
+### Robotics & Simulation
+ROS2 · MuJoCo · Gymnasium (learning)
 
-Machine Learning  
-- PyTorch (learning), NumPy
-
-Tools  
-- Linux, Git (learning)
+### Libraries & Tools
+NumPy · OpenCV · Matplotlib · Pandas
 
 ---
 
@@ -46,6 +44,7 @@ Currently studying:
 - Reinforcement Learning
 - ROS2
 - Linear Algebra and Learning from Data -Gilbert Strang
+- Computer Vision
 
 ---
 
