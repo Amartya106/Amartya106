@@ -1,6 +1,6 @@
 # Hi, I'm Amartya 👋
 
-Electrical Engineering undergraduate at IIT (BHU), Varanasi interested in **robotics, robot learning, and reinforcement learning**.
+Electrical Engineering undergraduate at IIT (BHU), Varanasi interested in **robotics, control systems, and reinforcement learning**.
 
 My current focus is on the intersection of **perception, control, and learning** in robotic systems. I am building a strong foundation in **reinforcement learning, robot simulation, and control theory** with the goal of developing intelligent robotic systems that can learn from interaction.
 
@@ -8,8 +8,7 @@ My current focus is on the intersection of **perception, control, and learning**
 
 ## Current Focus
 
-- Reinforcement Learning
-- Linear Algebra
+- Control Systems
 - Robot Simulation (MuJoCo / Gymnasium)
 - ROS2
 - Computer Vision for Robotics
@@ -26,7 +25,7 @@ My current focus is on the intersection of **perception, control, and learning**
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,matlab" />
 </p>
 
 ### Robotics & Simulation
@@ -41,7 +40,7 @@ NumPy · OpenCV · Matplotlib · Pandas
 
 Currently studying:
 
-- Reinforcement Learning
+- Modern Control Engineering -Katsuhiko Ogata
 - ROS2
 - Linear Algebra and Learning from Data -Gilbert Strang
 - Computer Vision
