@@ -6,10 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Control+Systems;Reinforcement+Learning;Multi-Agent+Systems;ROS2+%E2%80%A2+PX4+%E2%80%A2+MuJoCo" alt="Typing SVG" />
 </a>
 
-**B.Tech Electrical Engineering @ IIT (BHU) Varanasi** · Junior Core Member, IIT BHU Robotics Club
+**B.Tech Electrical Engineering**
 
-<a href="https://www.linkedin.com/in/amartya-mishra-397b8b230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amartya.mishra.eee25@itbhu.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Amartya106"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://amartya106.github.io/"><img src="https://img.shields.io/badge/Website-amartya106.github.io-0d1420?style=flat-square&logo=githubpages&logoColor=white" /></a>
 
@@ -60,9 +58,9 @@ EE undergrad working on robotics. My main interests are **control theory**, **re
 <td width="50%" valign="top">
 
 <h3>🤖 <a href="https://roverchallenge.org/irc/">International Rover Challenge (IRC)</a></h3>
-<b>IIT BHU Robotics Club · Autonomous navigation</b>
+<b>Autonomous navigation</b>
 
-<p>Repo: <a href="https://github.com/Amartya106/irc-rover"><b>irc-rover</b></a> (fork of <a href="https://github.com/Robotics-Club-IIT-BHU/Rover">Robotics-Club-IIT-BHU/Rover</a>)</p>
+<p>Repo: <a href="https://github.com/Amartya106/irc-rover"><b>irc-rover</b></a></p>
 <ul>
   <li>ROS2 + Nav2 with GPS waypoint following</li>
   <li>Custom 6-state EKF fusing MAVLink IMU and GPS</li>
