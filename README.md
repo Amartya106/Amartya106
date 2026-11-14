@@ -74,19 +74,6 @@ EE undergrad working on robotics. My main interests are **control theory**, **re
 </td>
 <td width="50%" valign="top">
 
-<h3>🏗️ Inter IIT Tech Meet 15.0: Prepathon</h3>
-<b>College team selection round</b>
-
-<p>My solutions to two prepathon problem statements:</p>
-<ul>
-  <li><a href="https://github.com/Amartya106/inter-iit-prep-aerial-robo-15.0"><b>inter-iit-prep-aerial-robo-15.0</b></a>: Aerial Robotics PS. PX4 SITL work on vision-based navigation without GPS and runtime motor-effectiveness characterization.</li>
-  <li><a href="https://github.com/Amartya106/inter-iit-prep-ground-robo-15.0"><b>inter-iit-prep-ground-robo-15.0</b></a>: Ground Robotics PS.</li>
-</ul>
-
-<img src="https://img.shields.io/badge/PX4-SITL-1f6feb?style=flat-square" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
 </td>
 </tr>
 </table>
